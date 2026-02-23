@@ -1,5 +1,4 @@
-import { RouterProvider, Routes, Route, Outlet, BrowserRouter, createBrowserRouter } from 'react-router-dom';
-import Home from './pages/Home';
+import { RouterProvider, createHashRouter, Navigate, Outlet } from 'react-router-dom';import Home from './pages/Home';
 import Movies from './pages/Movies';
 import Characters from './pages/Characters';
 import Games from './pages/Games';
@@ -25,7 +24,7 @@ const Layout = () => {
 
 
 // Const created in arrays keeping the routes about the pages of the aplication.
-const router = createBrowserRouter([
+const router = createHashRouter([
 {path: "/",
   
     element: <Layout />, // O Layout envolve tudo
