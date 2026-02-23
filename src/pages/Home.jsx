@@ -15,7 +15,7 @@ function Home() {
     </section>
 
 {/* New Section, after the video apresentation */}
-  <section className="relative z-30 bg-black py-20 px-10 text-black">
+  <section className="relative z-30 bg-black py-20 px-10 ">
     <Squad_topics/>
     </section>
     </main>
