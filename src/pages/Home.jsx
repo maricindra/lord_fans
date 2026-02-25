@@ -21,8 +21,8 @@ function Home() {
         <h1 className="text-center text-brown_grey mb-10 font-parfumerie text-8xl tracking-[0.2em]">Resume of the Legend</h1>
         <p className="text-center font-bold text-xl text-green03 mt-10">
         The Lord of the Rings is an epic adventure film trilogy directed by Peter Jackson. 
-        The three films—titled The Fellowship of the Ring, The Two Towers, and The Return 
-        of the King—were released consecutively between December 2001 and 2003. The 
+        The three films titled The Fellowship of the Ring, The Two Towers, and The Return 
+        of the King were released consecutively between December 2001 and 2003. The 
         trilogy is based on the epic novel of the same name by J. R. R. Tolkien and was 
         adapted for the screen by Jackson, Fran Walsh, and Philippa Boyens. The story is 
         set in the fictional world of Middle-earth and follows the journey of Frodo Baggins
