@@ -1,7 +1,10 @@
 # Projeto Landing Page referente ao filme "Senhor dos Aneis"
 
 Objetivo:
-Fanpage, ou seja uma aplicação web temática. Desenvolvida em HTML/CSS e JavaScript e React, voltada para unir fãs da franquia O Senhor dos Anéis.
+Criar uma Fanpage, ou seja uma aplicação web temática, voltada para unir fãs da franquia O Senhor dos Anéis. 
+
+Desenvolvida em:
+HTML/CSS e JavaScript e React
 
 Principais destaques do projeto:
 - Interface e Experiência do Usuário (UI/UX): Apresenta um design imersivo que homenageia a estética da Terra Média, organizando conteúdos em páginas responsivas e bem estruturadas.
